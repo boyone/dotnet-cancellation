@@ -1,5 +1,13 @@
 # Cancellation
 
+- Require `.NET 6`
+
+## Run dotnet api
+
+```shell
+dotnet run
+```
+
 ## WeatherForecastWithoutCancellation
 
 - cancel by user: run following command and then press `control-C`
